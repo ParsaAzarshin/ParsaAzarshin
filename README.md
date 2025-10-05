@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on Zebracat.
+- 🔭 I’m currently working on Classino.
 - 💻 I’m always curious about JavaScript and TypeScript
 - 💬 Ask me about JavaScript, TypeScript, and any tech-related stuff.
 - 📫 How to reach me: LinkedIn - @azarshin
