@@ -3,7 +3,7 @@
 🎯 **Frontend Developer | Vue.js Enthusiast | JavaScript Craftsman**
 
 I’m a passionate Frontend Developer with **6+ years of experience**, focused on crafting elegant, performant, and user-friendly web applications.  
-Currently, I’m building modern solutions at **[Mediana](https://Mediana.ir)** — one of the leading EdTech platforms in the Middle East.
+Currently, I’m building modern solutions at **[Mediana](https://Mediana.ir)** — a CRM and marketing automation platform serving SMEs in Iran.
 
 ---
 
